@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "description": "Dòng sản phẩm cơ bản, an toàn và tin cậy",
+      "image": "/images/category-classic.jpg"
+    },
+    {
+      "id": "ultra-thin",
+      "name": "Ultra-thin",
+      "description": "Siêu mỏng cho cảm giác tự nhiên nhất",
+      "image": "/images/category-ultra-thin.jpg"
+    },
+    {
+      "id": "for-her",
+      "name": "For Her",
+      "description": "Thiết kế đặc biệt dành riêng cho phái nữ",
+      "image": "/images/category-for-her.jpg"
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "description": "Phiên bản cao cấp với packaging sang trọng",
+      "image": "/images/category-premium.jpg"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Lunaris Bá Tước – Classic",
+            "category": "classic",
+            "price": 99000,
+            "description": "Như một vị Bá Tước trầm tĩnh, luôn hiện diện khi cần, Lunaris Classic là khởi đầu an toàn cho mọi hành trình.",
+            "features": "Cơ bản, an toàn, tin cậy. Thiết kế vừa vặn, thoải mái. Giá tiếp cận, phù hợp mọi đối tượng.",
+            "image": "/images/batuoc.png",
+            "images": ["/images/batuoc1.png", "/images/batuoc-item.png"],
+            "quantityPerBox": 3,
+            "inStock": true,
+            "featured": true
+        },
+        {
+            "id": 2,
+            "name": "Lunaris Công Tước – Ultra-thin",
+            "category": "ultra-thin",
+            "price": 139000,
+            "description": "Với lớp bảo vệ siêu mỏng, trải nghiệm tự nhiên như không tồn tại khoảng cách – phong cách sống sang trọng và đẳng cấp.",
+            "features": "Siêu mỏng, cảm giác chân thật. Công nghệ Invisible, ôm sát tự nhiên. Cao cấp, dành cho trải nghiệm tinh tế.",
+            "image": "/images/congtuoc.png",
+            "images": ["/images/congtuoc1.png", "/images/congtuoc-item.png"],
+            "quantityPerBox": 3,
+            "inStock": true,
+            "featured": true
+        },
+        {
+            "id": 3,
+            "name": "Lunaris Công Nương – For Her",
+            "category": "for-her",
+            "price": 130000,
+            "description": "Công Nương tôn vinh quyền năng phái nữ. Mềm mại, tinh tế và đầy sự quan tâm, món quà Lunaris dành riêng cho nàng.",
+            "features": "Dịu nhẹ, an toàn cho da. Thiết kế nữ tính, sang trọng. Tạo cảm giác thoải mái, quyến rũ.",
+            "image": "/images/congnuong.png",
+            "images": ["/images/congnuong1.png", "/images/congnuong-item.png"],
+            "quantityPerBox": 3,
+            "inStock": true,
+            "featured": true
+        },
+        {
+            "id": 4,
+            "name": "Lunaris Quý Tộc – Premium Edition",
+            "category": "premium",
+            "price": 239000,
+            "description": "Quý Tộc là đỉnh cao của sự sang trọng – tuyệt tác giới hạn, nơi an toàn hòa quyện cùng phong cách sống.",
+            "features": "Packaging cao cấp, tinh xảo. Phiên bản giới hạn. Phù hợp gifting & lifestyle cao cấp.",
+            "image": "/images/quytoc.png",
+            "images": ["/images/quytoc1.png", "/images/quytoc-item.png"],
+            "quantityPerBox": 3,
+            "inStock": true,
+            "featured": true
+        }
+    ]
+}
